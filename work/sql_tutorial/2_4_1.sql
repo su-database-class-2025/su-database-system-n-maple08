@@ -1,4 +1,3 @@
--- 2.4.1 テーブルの作成
 CREATE TABLE weather (
     city            varchar(80),
     temp_lo         int,           -- 最低気温
